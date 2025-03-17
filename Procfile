@@ -1,1 +1,1 @@
-web: java -jar target/WebTerminal-0.9-SNAPSHOT.jar
+web: java -jar target/WebTerminal-0.9-SNAPSHOT.jar --server.port=$PORT
